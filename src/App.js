@@ -5,7 +5,7 @@ function App() {
       <header className="App-header">
         <title>UdK Rundgang 2022</title>
         <meta name="description" content="Coming Soon UdK Rundgang 2022" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="favicon.ico" />
       </header>
       <main>
         <img
